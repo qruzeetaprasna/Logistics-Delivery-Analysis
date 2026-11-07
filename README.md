@@ -22,10 +22,3 @@ Proyek analisis data ini bertujuan untuk mengevaluasi performa operasional logis
 4. **Dampak Biaya Ongkir:** Berapa perbedaan rata-rata biaya pengiriman (*shipping cost*) antara pesanan yang tiba tepat waktu dibandingkan pesanan yang terlambat?
 5. **Dampak pada Rating Pelanggan:** Berapa penurunan rata-rata skor ulasan pelanggan (*customer review score*) akibat keterlambatan pengiriman?
 6. **Optimasi Wilayah Asal/Gudang:** Wilayah asal pengiriman (*seller/warehouse location*) mana yang menyumbang tingkat keterlambatan terbanyak?
-
----
-
-## 🛠️ Tools & Teknologi
-* **Database:** PostgreSQL / MySQL / SQLite
-* **SQL Querying:** `JOIN`, `GROUP BY`, Aggregate Functions, CTE (`WITH`), Window Functions (`ROW_NUMBER`, `RANK`)
-* **Documentation:** Git & GitHub, Markdown
