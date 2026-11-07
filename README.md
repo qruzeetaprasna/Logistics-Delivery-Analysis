@@ -11,7 +11,7 @@ Proyek analisis data ini bertujuan untuk mengevaluasi performa operasional logis
 * **Dataset:** Brazilian E-Commerce Public Dataset by Olist / E-Commerce Logistics Dataset
 * **Sumber Data:** [Kaggle - Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 * **Lisensi:** CC0: Public Domain (Open-access data untuk penggunaan analisis publik dan portofolio)
-* **Skema Data:** Terdiri dari entitas relasional meliputi transaksi pemesanan (`orders`), rinci barang (`order_items`), pelanggan (`customers`), lokasi/wilayah (`geolocation`), serta ulasan ulasan pelanggan (`order_reviews`).
+* **Skema Data:** Terdiri dari entitas relasional meliputi transaksi pemesanan (`orders`), rinci barang (`order_items`), pelanggan (`customers`), seller (`seller`), kategori barang(`category_translation`), serta ulasan ulasan pelanggan (`order_reviews`).
 
 ---
 
